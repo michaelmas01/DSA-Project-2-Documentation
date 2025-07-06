@@ -120,4 +120,5 @@ PDF Format: [Palmora Group HR Analysis.pdf](https://github.com/user-attachments/
 
 ---
 
-## 📁 File Structure
+## Final File Structure
+Here is the result of the Project in PowerBI file. [Click Here](https://drive.google.com/file/d/15XFVlKLXPAPGmXnGz0jCMqjuj4ad5by-/view?usp=sharing)
