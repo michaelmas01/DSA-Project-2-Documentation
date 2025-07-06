@@ -19,6 +19,14 @@ In response, the CEO, **Mr. Ayodeji Chukwuma**, assigned the CHRO, **Mr. Yunus S
 - Visualize key insights using **Power BI**
 
 ---
+### Datasets 
+Here are the **raw files** used.
+
+- Employee Dataset: [Download Employee Dataset](./Palmoria%20Group%20emp-data.csv)
+- Bonus Rule: [Download Bonus Rules](./Palmoria%20Group%20Bonus%20Rules.xlsx)
+
+
+---
 
 ### Data Cleaning Requirements
 The dataset required preprocessing to ensure accuracy and relevance:
